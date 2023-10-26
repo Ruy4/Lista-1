@@ -1,0 +1,5 @@
+<h1>Componentes principais de um firewall</h1>
+    <ul>
+        <li>Filtro;bloqueia a transmissão de certas classes de tráfego,protegendo a rede interna contra ameaças</li>
+        <li>Gateway;máquina ou conjunto de máquinas que oferece serviços através de proxy.</li>
+    </ul>
